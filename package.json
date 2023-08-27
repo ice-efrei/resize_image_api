@@ -1,0 +1,15 @@
+{
+  "name": "espotifice",
+  "version": "1.0.0",
+  "description": "Web App for ESP32 spotify controller",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "ice efrei - zhou",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jimp": "^0.22.10"
+  }
+}
